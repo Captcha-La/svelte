@@ -1,0 +1,9 @@
+node_modules/
+.svelte-kit/
+example/build/
+*.tgz
+*.log
+.DS_Store
+.idea/
+.vscode/
+example/dist/
