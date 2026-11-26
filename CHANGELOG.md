@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- README in Japanese, Korean, Spanish, Portuguese (BR) and German, with a language switcher in every README. No code changes.
+
 ## 1.0.0
 
 - Initial release.

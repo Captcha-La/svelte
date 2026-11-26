@@ -1,6 +1,6 @@
 {
   "name": "@captcha-la/svelte",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official Captchala CAPTCHA Svelte component and action - Smart CAPTCHA protection for your Svelte and SvelteKit applications",
   "type": "module",
   "svelte": "./dist/index.js",
